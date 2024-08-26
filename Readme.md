@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/programming.gif" alt="coding" width="80%"/>
+  <img src="assets/programming-ezgif.com-speed.gif" alt="coding" width="60%"/>
 </p>
