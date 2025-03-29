@@ -13,6 +13,7 @@
 <div align="center">
 	<img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+	<img width="100" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLalchemy" title="SQLalchemy"/>
 </div>
 
 Путь мой начался в 2019 году, в школе запустился Яндекс.Лицей, который нам с одноклассниками дивный новый мир It. Яндекс.Лицей дал очень хорошую базу для дальнейшего развития. От разъяснения основ на пальцах, мы пришли к относительно сложным ORM и промышленному программированию. 
