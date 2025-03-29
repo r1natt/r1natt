@@ -16,10 +16,17 @@
 	<img width="100" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLalchemy" title="SQLalchemy"/>
 </div>
 
-Путь мой начался в 2019 году, в школе запустился Яндекс.Лицей, который нам с одноклассниками дивный новый мир It. Яндекс.Лицей дал очень хорошую базу для дальнейшего развития. От разъяснения основ на пальцах, мы пришли к относительно сложным ORM и промышленному программированию. 
+Привет!
 
-После выпуска я начал рассматривать высоконагруженные системы. Написать код - это хорошо, но написать его так, чтобы сервис держал одновременно множество пользователей - еще лучше. Так я пришел к микросервисам и Docker, которые использую в работе.
+Я разработчик, который начал осваивать Python еще в школе (Яндекс лицей). С тех пор я успел поработать на фрилансе, где разрабатывал **API**, писал **парсеры** и создавал **Telegram-ботов**.
 
-Я очень хочу развиваться и дальше, изучать различные системы и архитектуры приложений и то, как они применяются непосредственно в работе.
+Работаю в Linux и предпочитаю надежные и масштабируемые решения. В моем арсенале:
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rafikov_rinat) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rafikov.work@yandex.ru)
+ * **Backend**: Flask, Django
+ * **Базы данных**: PostgreSQL, MongoDB, SQLAlchemy
+ * **DevOps**: Linux, Docker, Nginx
+
+Люблю писать чистый, оптимизированный код и создавать эффективные решения.
+
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rafikov_rinat) 
+[![Yandex Badge](https://img.shields.io/badge/-Yandex_mail-ffcc00?style=flat&logo=Yandex&logoColor=white)](mailto:rafikov.work@yandex.ru)
