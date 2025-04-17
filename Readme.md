@@ -7,6 +7,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLalchemy](https://img.shields.io/badge/sqlalchemy-c6260b.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 Привет!
 
 Я разработчик, который начал осваивать Python еще в школе (Яндекс лицей). С тех пор я успел поработать на фрилансе, где разрабатывал **API**, писал **парсеры** и создавал **Telegram-ботов**.
