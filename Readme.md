@@ -25,13 +25,13 @@
 
 # Мои проекты:
 
-[SMPP server](https://github.com/r1natt/smpp) - (**Docker**, **REST API**, **MongoDB**) Проект фрилнаса, работает с апи сервиса заказчика, внутри разделен на 2 микросервиса для работы (пользователи и сервис) с помощью Docker. 
+[SMPP server](https://github.com/r1natt/smpp) - (**Docker**, **REST API**, **MongoDB**) Проект Фриланса, работает с апи сервиса заказчика, внутри разделен на 2 микросервиса для работы (пользователи и сервис) с помощью Docker. 
 
-[VK Graph](https://github.com/r1natt/vk_social_graph) - (**MongoDB**, **Gephi**, **VK api**) Мой pet-проект, собирает граф связей вокруг веденного пользвователя.
+[VK Graph](https://github.com/r1natt/vk_social_graph) - (**MongoDB**, **Gephi**, **VK api**) Мой pet-проект, собирает граф связей вокруг введенного пользвователя.
 
-[PM parser](https://github.com/r1natt/pm_parser) - (**PostgreSQL**, **Google API**) Проект Фриланса, парсинг букмекера по внутреннему апи и вывод нужной информации в google таблицы.
+[PM parser](https://github.com/r1natt/pm_parser) - (**PostgreSQL**, **Google Cloud API**) Проект Фриланса, парсинг букмекера по внутреннему апи и вывод нужной информации в Google таблицы.
 
-[Quantum Courses](https://github.com/r1natt/Quantum) - (**Django**, **SQLite**) Мой pet-проект. Проект сайта курсов. НАписан с целью изучения Django.
+[Quantum Courses](https://github.com/r1natt/Quantum) - (**Django**, **SQLite**) Мой pet-проект. Проект сайта курсов, написан с целью изучения Django.
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rafikov_rinat) 
 [![Yandex Badge](https://img.shields.io/badge/-Yandex_mail-ffcc00?style=flat&logo=Yandex&logoColor=white)](mailto:rafikov.work@yandex.ru)
