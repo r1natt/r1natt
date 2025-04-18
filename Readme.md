@@ -1,3 +1,5 @@
+# Стек
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -21,7 +23,15 @@
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-Привет!
+# Мои проекты:
+
+[SMPP server](https://github.com/r1natt/smpp) - (**Docker**, **REST API**, **MongoDB**) Проект фрилнаса, работает с апи сервиса заказчика, внутри разделен на 2 микросервиса для работы (пользователи и сервис) с помощью Docker. 
+
+[VK Graph](https://github.com/r1natt/vk_social_graph) - (**MongoDB**, **Gephi**, **VK api**) Мой pet-проект, собирает граф связей вокруг веденного пользвователя.
+
+[PM parser](https://github.com/r1natt/pm_parser) - (**PostgreSQL**, **Google API**) Проект Фриланса, парсинг букмекера по внутреннему апи и вывод нужной информации в google таблицы.
+
+[Quantum Courses](https://github.com/r1natt/Quantum) - (**Django**, **SQLite**) Мой pet-проект. Проект сайта курсов. НАписан с целью изучения Django.
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rafikov_rinat) 
 [![Yandex Badge](https://img.shields.io/badge/-Yandex_mail-ffcc00?style=flat&logo=Yandex&logoColor=white)](mailto:rafikov.work@yandex.ru)
