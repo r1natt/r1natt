@@ -29,9 +29,7 @@
 
 [VK Graph](https://github.com/r1natt/vk_social_graph) - (**MongoDB**, **Gephi**, **VK api**) Мой pet-проект, собирает граф связей вокруг введенного пользвователя.
 
-[PM parser](https://github.com/r1natt/pm_parser) - (**PostgreSQL**, **Google Cloud API**) Проект Фриланса, парсинг букмекера по внутреннему апи и вывод нужной информации в Google таблицы.
-
 [Quantum Courses](https://github.com/r1natt/Quantum) - (**Django**, **SQLite**) Мой pet-проект. Проект сайта курсов, написан с целью изучения Django.
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rafikov_rinat) 
-[![Yandex Badge](https://img.shields.io/badge/-Yandex_mail-ffcc00?style=flat&logo=Yandex&logoColor=white)](mailto:rafikov.work@yandex.ru)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-RinatRafikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rfkv_rinat) 
+[![Yandex Badge](https://img.shields.io/badge/-Yandex_mail-ffcc00?style=flat&logo=Yandex&logoColor=white)](mailto:rfkv.work@yandex.ru)
