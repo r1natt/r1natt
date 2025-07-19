@@ -25,8 +25,6 @@
 
 # Мои проекты:
 
-[SMPP server](https://github.com/r1natt/smpp) - (**Docker**, **REST API**, **MongoDB**) Проект Фриланса, работает с апи сервиса заказчика, внутри разделен на 2 микросервиса для работы (пользователи и сервис) с помощью Docker. 
-
 [VK Graph](https://github.com/r1natt/vk_social_graph) - (**MongoDB**, **Gephi**, **VK api**) Мой pet-проект, собирает граф связей вокруг введенного пользвователя.
 
 [Quantum Courses](https://github.com/r1natt/Quantum) - (**Django**, **SQLite**) Мой pet-проект. Проект сайта курсов.
